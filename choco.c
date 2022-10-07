@@ -1,6 +1,6 @@
 //chocolates
 #include<stdio.h>
-  int chocolate(int arr[],int n)
+  int choco(int arr[],int n)
 {
   int p=0;
   int q=n-1;
